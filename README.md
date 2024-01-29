@@ -1,6 +1,14 @@
-# Sample Hardhat Project
+# Smart Contract Simple Calculator
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+#### Sample Hardhat Project
+
+### Address on sepolia.etherscan.io 
+0x75b8BDF86760791e4caB1B06F2d5EE4c49313cFd
+
+```shell
+https://sepolia.etherscan.io/address/0x75b8BDF86760791e4caB1B06F2d5EE4c49313cFd#code
+```
+
 
 Try running some of the following tasks:
 
